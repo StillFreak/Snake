@@ -1,0 +1,12 @@
+﻿  Player.cpp
+C:\Users\User\source\repos\Snake\Player.h(45,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(58,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(71,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(84,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Snake.cpp
+C:\Users\User\source\repos\Snake\Player.h(45,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(58,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(71,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(84,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Snake.vcxproj -> C:\Users\User\source\repos\Snake\x64\Debug\Snake.exe
