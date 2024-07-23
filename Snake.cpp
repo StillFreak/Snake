@@ -39,20 +39,20 @@ void Map_Draw() {							//Отрисовка карты
 			break;
 		}
 		std::vector <std::vector <char>> map(10, std::vector <char>(10, '.'));
-		map[snake.apple_place[0]][snake.apple_place[1]] = '0';
+		map[snake.apple_place[0]][snake.apple_place[1]] = char(15);
 		if (snake.i_place == 10 || snake.j_place == 10) {
 			snake.game = false;
 		}
 
 		for (int i = 0; i < snake.body.size() - 1; ++i) {
-			map[snake.body[i][0]][snake.body[i][1]] = '8';
+			map[snake.body[i][0]][snake.body[i][1]] = char(4);
 		}
 		
 
 		if (map[snake.i_place][snake.j_place] == map[snake.apple_place[0]][snake.apple_place[1]]) {
 			snake.LvlUp();
 			snake.Apple_Spawn();
-			map[snake.apple_place[0]][snake.apple_place[1]] = '0';
+			map[snake.apple_place[0]][snake.apple_place[1]] = char(15);
 		}
 
 
