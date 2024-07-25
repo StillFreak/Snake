@@ -28,6 +28,8 @@ public:
 
 	void Apple_Spawn() {			//Случайный спавн яблока
 		srand(time(0));
+		bool spawnapp = true;
+		int cnt = 0;
 		int x = rand() % (9 - 0 + 1);
 		int y = rand() % (9 - 0 + 1);
 		apple_place[0] = x;

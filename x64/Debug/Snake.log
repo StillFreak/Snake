@@ -1,7 +1,14 @@
-﻿  Snake.cpp
+﻿  Player.cpp
 C:\Users\User\source\repos\Snake\Player.h(30,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\User\source\repos\Snake\Player.h(47,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\User\source\repos\Snake\Player.h(60,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\User\source\repos\Snake\Player.h(73,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\User\source\repos\Snake\Player.h(86,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(57,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(70,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(83,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(96,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Snake.cpp
+C:\Users\User\source\repos\Snake\Player.h(30,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(57,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(70,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(83,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Snake\Player.h(96,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
   Snake.vcxproj -> C:\Users\User\source\repos\Snake\x64\Debug\Snake.exe
