@@ -12,7 +12,7 @@ private:
 	
 
 public:
-	int i_place = 5, j_place = 5, k = 0, spd = 800;
+	int i_place = 5, j_place = 5, k = 0, spd = 1000;
 	bool game = true;
 	int apple_place[2];
 	std::vector <std::vector <int>> body;
